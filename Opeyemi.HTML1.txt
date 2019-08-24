@@ -1,0 +1,155 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>OPEYEMI ALABI</h1>
+        <P>
+            <i>Highly dependable and proactive Secretary with demonstrated ability to anticipate and cater for executive office support needs. <br> Competent in providing administrative and organizational support while serving as a liaison among management, employees, and clients. <br> Proficient in database handling, appointment scheduling, and general office management. <br> Administrative Officer with proven ability to manage complex tasks while maintaining the highest standards of professionalism. <br> Expert in the front desk, and customer query response. Passionate about self-development with the zeal to take on more responsibilities within my set field.
+        </i> 
+    </P>
+
+    <div>
+        <a href="#">Experience</a>
+        <a href="#">Education</a>
+        <a href="#">Skills and Expertise</a>
+        <a href="#">Professional Membership</a>
+        <a href="#">Professional Training,Courses& Certification</a>
+    </div>
+
+    </header>
+
+    <hr>
+
+    <div>
+        <img src="https://res.cloudinary.com/opeyemi-alabi/image/upload/v1566574408/HNG%20Task%202%20Assignment/Opeyemi_1_xugke6.jpg" alt="My Profile" width="400" height="300">
+    </div>
+
+    <hr>
+
+    <div>
+        <h3>EXPERIENCE</h3>
+        <P><b>FLYMYADS LIMITED,LAGOS</b>- <i>Social Media Manager</i>                      <b>Feburary 2019 - Till Date</b> </P>
+        <ul>
+            <li>Create high-quality original written and visual content for a social media campaign</li>
+            <li>Run company social media advertising campaigns</li>
+            <li>Oversee customer service provided via social media.</li>
+            <li>Monitor company brand and building brand awareness on social media.</li>
+            <li>Respond to comments on social media and engage with influencers.</li>
+            <li>Develop sales and marketing plan for diverse packages of the company.</li>
+            <li>Manage social platforms using apps such as Pages Manager, Canva, Adobe Light room, and Animated Text </li> 
+            <li>Key Achievement: Coordinated a team of 3 that ensured the social media handles of the company <br> gained a 40% increase in social engagement.</li>         
+        </ul>
+        <p><b>SENANTRA LIMITED, NIGERIAN BAR ASSOCIATION,ABUJA</b>- <i>Event Coordinator</i>    <b>September 2018</b> </p>
+        <ul>
+            <li>Managed Catering vendors. Coordinated crowd control operations at the food court and ground floor.</li>
+            <li>Managed 3 programs handled by 15 panels, 7 repertoires, and an attendance of 1000 lawyers.</li>
+            <li>Managed registration of all delegates attending the conference.</li>
+            <li>Coordinated marquee management, stage management cleaning coordination, and panel management.</li>
+            <li>Served as the personal assistant to the overall Project Manager.</li>
+            <li>Prepared and submitted document review about NBA conference.</li>
+            <li><i>Event Coordinator - LAGOS (August 2017)</i> </li>
+            <li>Served as the personal assistant to the overall Project Manager.</li>
+            <li>Managed registration of all delegates attending the conference and sales of ticket</li>
+            <li>Coordinated Hall management, stage management cleaning coordination, and for dinner with the NBA President.</li>
+        </ul>
+        <p><b>NLNG&SHOWGEAR LIMITED,PORTHARCOURT</b>- <br><i>Event Coordinator and Event Flow Coordinator</i>          January 2018 - August 2018</p>
+        <ul>
+            <li>Planned and scheduled key activities in preparation for the concert.</li>
+             <li>Led the proposals and contract drafting team with sponsors and partners interest at mind.</li> 
+             <li>Prepared a document for scheduling meetings with the different secondary schools <br> and Music schools participating in the Music Festival.</li>
+             <li>Planned a system for sending and scheduling artiste details such as venue listing and media house publicity.</li>  
+             <li>Managed 5 locations simultaneously and served as the management representative amongst <br> 5 technical partners assigned to each location.</li> 
+             <li>Key Achievement: Prepared and determined event staffing requirements that included professional and student staff, police, and medical support.</li>           
+        </ul>
+        <p><b>SHOWGEAR LIMITED,</b><i>Head, Administrative Team (MAKE Music Lagos 2018)</i>      January 2018 - August 2018</p>
+        <ul>
+            <li>Led a team that planned events from start to finish according to requirements, target audience and objectives.</li>
+            <li>Worked closely with the Event Planner, ensured event completed smoothly and stepped up to resolve minor problems that came up.</li>	
+            <li>Coordinated the ticketing team operations.</li>	
+            <li>– Administrative Support                                                          May 2017 – June 2017</li>   
+            <li>Managed administrative activities including scheduling of artiste, venue listing,<br> email inquiries and media house publicity.</li>	
+            <li>Liaised with artiste’s managers on behalf of the management to ensure <br> ‘Hospitality Riders’ and ‘Technical Riders’ are properly interpreted and executed.</li>	
+            <li>Worked as the welfare managers and managed the green rooms and VIP lounge.</li>	
+            <li>Key Achievement: Prepared and managed Partnership and Sponsors agreement on behalf of the management.</li>
+        </ul>
+        <p><b>EARS NIGERIA LIMITED,</b><i>Front Desk Officer</i>                                 January 2017 - April 2017</p>
+        <ul>
+            <li>Oversaw document control management to ensure efficient service delivery such as <br> general ledger, finance ledger, visitors record, and staff register</li>
+            <li>Led and coordinated the driving academy support team to ensure matching of students <br> and teachers as well as seamless tracking of all payment schemes.</li>	
+            <li>Key Achievement: Involved in sales and marking of ‘Car Tracking Devices’ that yielded a steady 15% increase in sales for the quarter.</li>    
+        </ul>
+        <p><b>IGBUDUYA COMMUNITY SENIOR SECONDARY SCHOOL,</b><i>Teacher (NYSC)</i>               OCTOBER 2015 - OCTOBER 2016</p>
+        <ul>
+            <li>Planned and prepared appropriately the lesson notes for the assigned subject (Civic Education).</li>
+            <li>Conducted assigned classes at the scheduled times.</li>	
+            <li>Implemented the designated curriculum completely and in due time.</li>	
+            <li>Prepared students’ score sheets and presented results for final approval.</li>	
+            <li>Engaged students in creative thinking and integrated learning experiences.</li>	
+            <li>Built students’ ability to work collaboratively with others</li>	
+        </ul>
+        <p><b>SHOWGEAR SOUND LIMITED,</b><i>Administrative Staff</i>                              January 2014 - October 2014</p>
+        <ul>
+            <li>Served as a Project Manager in a new branch and managed a team of 4.</li>
+            <li>Ensured  timely  delivery  of  jobs  by  various  contractors <br>  in  accordance  with  agreed quality standards and specifications.</li>	
+            <li>Designed and implemented various PR strategies to create awareness <br> for the new branch and the company's webpage.</li>	
+            <li>Managed daily balancing of the petty cash account on the excel sheet and ensured regular stock taking.</li>	 
+        </ul>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3><b>EDUCATION</b></h3>
+        <p><b>University of Ilorin, Ilorin</b> - Bachelors of Science (B.Sc) Sociology and Anthropology             2015</p>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3><b>SKILLS AND EXPERTISE</b></h3>
+        <ul>                                                       
+            <li>Customer relationship management</li>                 <li>Operations management</li>
+            <li>Business development</li>                             <li>Inventory management</li>	         
+            <li>Sales and Marketing</li>                              <li>Good computer skills including Microsoft office packages</li>                      
+            <li>Project management</li>	                              <li>Attention to detail and goal driven</li>
+            <li>Data management</li>	                              <li>Ability to work under pressure</li>
+            <li>Administrative support</li>                           <li>Creativity and Adaptability</li>
+            <li>Conflict resolution</li>                              <li>Excellent problem-solving skills</li>	
+            <li>Conflict resolution</li>                              <li>Documentation and presentation skills</li>                              
+            <li>Time management</li>	                              <li>Strong team leadership and management skills</li>
+            <li>Strategic planning</li>                               <li>Strong interpersonal and communication skills</li>    	        	
+        </ul>                                                                                                                             
+    </div>
+
+    <hr>
+
+    <div>
+        <h3><b>PROFESSIONAL MEMBERSHIP</b></h3>
+        <ul>
+            <li>Member, Nigerian Students Association of Sociology and Anthropology (NSASA)</li>
+            <li>Member, Youth Empowerment Initiative (Solid Foundation Ministry and Mine Ministry)</li>	
+            <li>Member, Youth with a Purpose (Ywap)</li>	
+            <li>Member, H.O.P.E Foundation.</li>	           
+        </ul>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3><b>PROFESSIONAL TRAINING, COURSES & CERTIFICATION</b></h3>
+        <ul>
+            <li>Conference on Transformation, Transition and Sustainable Institution – Nigeria Bar Association	2018</li>
+            <li>Conference on African Businesses; Penetrating through Institution building – Nigeria Bar Association	2017</li>	
+            <li>Excellence in Leadership Conference – Daystar Christian Center	2017</li>	
+            <li>Diploma in Project Management – Institute of Petroleum and Energy Management	2016</li>	
+            <li>Certificate of National Service – National Youth Service Corp	2016</li>	
+                    
+        </ul>
+    </div>
+</body>
+</html>
